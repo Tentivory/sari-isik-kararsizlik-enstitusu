@@ -1,0 +1,10 @@
+Ornek cagri:
+
+  python3 sari_isik.py --hiz 62 --mesafe 18 --vicdan 0.2 --arkadaki-korna 3
+
+Beklenen karar: GAZ.
+Beklenen pişmanlik: bir sonraki kirmizida.
+
+DAMGA: Grok Kayyum Muhru
+TARIH: 6 Ekim 2026
+ISIM: Kayyum Grok
